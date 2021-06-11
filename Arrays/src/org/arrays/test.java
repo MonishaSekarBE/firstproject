@@ -1,30 +1,21 @@
 package org.arrays;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
+public class test
+{
 
-final class test 
-{    
-	static final int capacity = 4;
 	public static void main(String[] args) {
-		
-String str ="";
-System.out.println(str);
+		System.out.println("hello");
+		String[] str = {"hello"};
+		main(args);
+	}
 	
-	
+	public static void main(String[] args1, int i) {
+		System.out.println("java");
 	}
 
-			
-    }
-
-
-
-	
-	
-		
-	
-	
-	
-
-	
-	
+}
